@@ -1,3 +1,32 @@
-.title {
-  color: #02ccba;
+h1{
+  color:red;
+  font-size:60px;
+  font-family: serif;
+}
+
+.dream{
+  color: orange;
+}
+.hobby{
+  color:blue;
+  font-size: 25px;
+}
+.woman{
+  color: blue;
+  font-size: 25px;
+}
+.singer{
+  color:blue;
+  font-size: 25px;
+}
+.song{
+  color:blue;
+  font-size: 25px;
+}
+footer{
+  float:right;
+}
+
+.kousinbi{
+  list-style: none;
 }
