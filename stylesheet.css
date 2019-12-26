@@ -27,6 +27,10 @@ footer{
   float:right;
 }
 
-.kousinbi{
-  list-style: none;
+
+span{
+  font-size:30px;
+}
+.josei{
+  font-size:20px;
 }
