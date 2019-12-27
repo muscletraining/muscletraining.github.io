@@ -1,28 +1,22 @@
-h1{
+.header-logo{
   color:red;
-  font-size:60px;
+  font-size:36px;
   font-family: serif;
+  float:left;
+  padding:30px;
 }
+.header-list{
+  padding:33px 20px;
 
+}
 .dream{
   color: orange;
 }
-.hobby{
+.k{
   color:blue;
   font-size: 25px;
 }
-.woman{
-  color: blue;
-  font-size: 25px;
-}
-.singer{
-  color:blue;
-  font-size: 25px;
-}
-.song{
-  color:blue;
-  font-size: 25px;
-}
+
 footer{
   float:right;
 }
@@ -33,4 +27,18 @@ span{
 }
 .josei{
   font-size:20px;
+}
+li{
+  list-style:none;
+}
+.header-logo{
+  float:left;
+}
+.f{
+  float:left;
+  padding:0 15px;
+}
+header{
+  background-color:green;
+  height:110px;
 }
